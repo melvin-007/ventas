@@ -1,0 +1,5 @@
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb

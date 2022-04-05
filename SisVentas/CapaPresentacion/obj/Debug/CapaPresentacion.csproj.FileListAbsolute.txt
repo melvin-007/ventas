@@ -1,0 +1,12 @@
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresentacion.resources

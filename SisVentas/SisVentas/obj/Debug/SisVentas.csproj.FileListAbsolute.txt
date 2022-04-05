@@ -1,0 +1,14 @@
+c:\users\melvinf\documents\visual studio 2015\Sistema\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\melvinf\Documents\Visual Studio 2015\Sistema\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
